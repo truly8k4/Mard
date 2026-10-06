@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển ảnh sang lưới hạt ủi MARD",
+  "description": "Công cụ chuyển đổi ảnh thành bản mẫu lưới hạt ủi MARD chuyên nghiệp, hỗ trợ đầy đủ 221 mã màu, phân biệt chuẩn xác màu trắng và ô trong suốt, chỉnh sửa lưới trực quan, xuất bản mẫu HD và thống kê hạt chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
